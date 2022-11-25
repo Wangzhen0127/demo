@@ -126,7 +126,7 @@ function Rise() {
 }
 function btnCount_Click() {
 
-    s1 = "2022-11-25"
+    s1 = "2022-11-26"
 
     s2 = "2021-12-12"
     let timecha = document.querySelector(".time")
